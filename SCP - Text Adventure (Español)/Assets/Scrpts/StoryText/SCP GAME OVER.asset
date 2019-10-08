@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12f98aa70492ed04cbd4a3800c7df233, type: 3}
+  m_Name: SCP GAME OVER
+  m_EditorClassIdentifier: 
+  storyText: "GAME OVER\r\nConsigues abrir de un movimiento la puerta del ascensor
+    solo para ver como una criatura con una piel extra\xF1a, sin ojos y con una enorme
+    boca como la de un lagarto gigante se te lanza encima.\r\n\r\nTe caes al suelo
+    de espaldas intentando agarrarle de la cabeza para evitar que te muerda el cuello.
+    Para tu mala suerte, estas f\xE1tigado y la fuerza de la criatura es abrumadora.
+    Aguantas unos minutos antes de sentir como sus colmillos te desgarran el cuello.
+    Sientes como tu propia sangre te empieza a ahora, como tu carne esta siendo separada
+    de tu cuerpo y tu visi\xF3n se ha vuelto borrosa.\r\n\r\n"
+  nextStates: []

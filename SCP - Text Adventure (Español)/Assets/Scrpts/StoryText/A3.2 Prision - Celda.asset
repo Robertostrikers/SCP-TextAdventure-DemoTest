@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12f98aa70492ed04cbd4a3800c7df233, type: 3}
+  m_Name: A3.2 Prision - Celda
+  m_EditorClassIdentifier: 
+  storyText: "Te despiertas gritando en mitad de la noche.\r\n\r\nTe das de cuenta
+    que te has quedado dormido mientras te escond\xEDas debajo del catre. Estas inquieto
+    y sientes el sudor cayendo de tu cara.\r\n\r\nAun puedes o\xEDr las alarmas del
+    pasillo, esta vez, con m\xE1s suavidad. La pesadilla de antes aun te susurra en
+    tu mente. \"Y si ese scp que escap\xF3 me encuentra aqu\xED? No podr\xEDa huir
+    a ninguna parte.\" te dices a ti mismo entre l\xE1grimas.\"No, relajate, solo
+    estas delirando.\"\r\n\r\n1.- Intentar dormir un poco y esperar a que pase...\r\n2.-
+    Salir de la celda e intentar huir..."
+  nextStates:
+  - {fileID: 11400000, guid: d0a6e9712ad512142a88d1223584f5bc, type: 2}
+  - {fileID: 11400000, guid: 10374bbc3056884469d582d6ec615c7f, type: 2}

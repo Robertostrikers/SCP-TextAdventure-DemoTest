@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12f98aa70492ed04cbd4a3800c7df233, type: 3}
+  m_Name: A1 Introduccion
+  m_EditorClassIdentifier: 
+  storyText: "Te despiertas inquieto en mitad de la fr\xEDa noche por un fuerte temblor
+    que te empuja fuera de tu inc\xF3moda cama. Te levantas somnoliento del suelo
+    para acercarte al lavabo con la poca luz que se cuela por la peque\xF1a ventanilla
+    de la met\xE1lica puerta. Abres el grifo y con agua fr\xEDa en tus manos te lavas
+    con cuidado la cara. Miras tu oscuro reflejo en el espejo mientras se te llenan
+    los ojos de l\xE1grimas por todo lo que estas sufriendo con los \xFAltimos eventos
+    de tu vida.\r\n\r\nMientras observas tu triste rostro, la habitaci\xF3n se vuelve
+    un vac\xEDo oscuro en el que no puedes ver ni tus propias manos. Pasan unos pocos
+    segundos antes de poder volver a ver. Esta vez, con una luz m\xE1s d\xE9bil que
+    se cuela por la puerta, junto a una estruendosa alarma.\r\n\r\nTe acercas a al
+    pesada puerta de tu celda para intentar averiguar que es ese jaleo. Lo primero
+    que observas son las d\xE9biles luces de emergencia que sustituyeron la clara
+    luz habitual del pasillo. Al cabo de un rato, distingues una voz entre la ruidosa
+    alarma que sale de un megaf\xF3no en el pasillo: \"Alerta! Ha ocurrido una brecha
+    de seguridad en la sala de contenci\xF3n B2. Nivel de peligro del scp: Keter.
+    Por favor, mantenga la calma y dirijase al refugio m\xE1s cercano, despu\xE9s
+    mantengase a la espera de nuevas instrucciones. El equipo de seguridad de la fundaci\xF3n
+    SCP se encargar\xE1 del asunto.\" - se repite el mensaje cada var\xEDos segundos.\r\n\r\nAl
+    apoyarte en la met\xE1lica puerta para escuchar mejor, notas que esta se balancea
+    con suavidad hac\xEDa los lados.\r\nParece que la compleja cerradura no aguanto
+    el fuerte temblor de antes. La pesada puerta se deja abrir con cierta f\xE1cilidad.
+    Es tu oportunidad para huir del lugar, anque no estas seguro que decisi\xF3n es
+    m\xE1s peligrosa... Intentar sobrevivir hasta que acabe mi condena? O intentar
+    jugarme la vida huyendo de aqu\xED? Quizas deber\xEDa salir anque sea para buscar
+    un refugio...\r\n\r\n1.- Abrir la puerta y salir al pasillo...\r\n2.- Cerrar la
+    puerta y quedarte..."
+  nextStates:
+  - {fileID: 11400000, guid: 10374bbc3056884469d582d6ec615c7f, type: 2}
+  - {fileID: 11400000, guid: e80876c4a0ae3bc40a1a4f0b544f0635, type: 2}

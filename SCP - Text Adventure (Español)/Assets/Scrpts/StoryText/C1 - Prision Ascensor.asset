@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12f98aa70492ed04cbd4a3800c7df233, type: 3}
+  m_Name: C1 - Prision Ascensor
+  m_EditorClassIdentifier: 
+  storyText: "Hay dos grandes ascensores, el pasillo que sigue m\xE1s all\xE1 parece
+    ir a otra sala llena de prisioneros.\r\nAntes de tomar ninguna de desici\xF3n
+    inspeccionas de cerca los ascensores. Una de las puertas parece haber sido da\xF1ada
+    con el temblor de antes dejandola entreabierta, parece que si la fuerzas un poco
+    puedes pasar. El otro ascensor parece que esta bloqueado, ya que no parece reaccionar
+    al pulsar un bot\xF3n que hay al lado de su puerta.\r\n\r\nMirando por el hueco
+    entre la puerta rota del ascensor, reconoces las cuerdas rotas que deber\xEDan
+    sujetar el ascensor. Parece que el ascensor quedo fuera de servicio y esta algunos
+    pisos m\xE1s debajo que este. Tambien eres capaz de ver, grac\xEDas a las luces
+    de emergenc\xEDa dentro del hueco, unas escaleras de emergenc\xEDa para estas
+    situaciones.\r\n\r\n1.- Forzar la puerta rota del ascensor y entrar...\r\n2.-
+    Explorar el resto de la prisi\xF3n m\xE1s all\xE1 de los ascensores..."
+  nextStates:
+  - {fileID: 11400000, guid: 9dcb0245dfb3db841b4323c246cf854c, type: 2}
+  - {fileID: 11400000, guid: e084f07cca23fbf43a7fbd2ebcc28600, type: 2}

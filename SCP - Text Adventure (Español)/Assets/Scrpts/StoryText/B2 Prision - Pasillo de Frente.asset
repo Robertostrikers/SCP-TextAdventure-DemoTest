@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12f98aa70492ed04cbd4a3800c7df233, type: 3}
+  m_Name: B2 Prision - Pasillo de Frente
+  m_EditorClassIdentifier: 
+  storyText: "Decides seguir explorando con esperanzas de encontrarte con algo o alguien
+    que te pueda ayudar en tu fuga. Avanzas con cierta lentitud por el pasillo de
+    la prisi\xF3n cuando te encuentras al final de este. Hay dos puertas distintas
+    a las que has visto hasta ahora.\r\n\r\nLa primera puerta tiene un cartel que
+    indicando la palabra \"Seguridad\". Inspeccionando la puerta de cerca, te das
+    de cuenta que necesitas una tarjeta de acceso para entrar. La segunda puerta tambien
+    tiene un cartel, \"Limpieza\". Parece que esta abierta y no requiere ningun tipo
+    de llave.\r\n\r\nDesde este punto el pasillo continua por tu izquierda. Si tu
+    intuici\xF3n no te falla, seguir el pasillo debe llevarte al cruce que viste antes,
+    all\xED deben estar los anscensores.\r\n\r\n1.- Entrar por la puerta que dice
+    \"Limpieza\"...\r\n2.- Seguir por el pasillo para llegar a los ascensores..."
+  nextStates:
+  - {fileID: 11400000, guid: 3c75239e1cdca6e48816b72932305425, type: 2}
+  - {fileID: 11400000, guid: 54ea1465fa2cec743aff5c4d9b601722, type: 2}

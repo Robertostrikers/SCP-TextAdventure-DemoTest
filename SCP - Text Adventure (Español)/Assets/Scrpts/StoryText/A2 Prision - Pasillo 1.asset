@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12f98aa70492ed04cbd4a3800c7df233, type: 3}
+  m_Name: A2 Prision - Pasillo 1
+  m_EditorClassIdentifier: 
+  storyText: "Estas en mitad de un pasillo mal iluminado por luces de emergenc\xEDa.
+    La sirena sigue sonando a pesar de haber menguado en fuerza. Mirando hac\xEDa
+    ambos lados observas numerosas puertas de otros prisioneros con sus respectivos
+    nombres escritos en un cartelito. De los cuales, eres capaz de o\xEDr entre el
+    ruidosa alarma como algunos sollozan con tristeza en sue\xF1os.\r\n\r\nEres capaz
+    de ver el final del oscurecido pasillo. Al final del pasillo de la derecha se
+    gira a la izquierda. Mientras que el final del pasillo izquierdo gira hac\xEDa
+    la derecha.\r\n\r\nSiempre te han sacado de tu peque\xF1a celda con vendas en
+    los ojos cuando ten\xEDas que ir a encargarte de sus horribles trabajos, pero
+    recuerdas que siempre te llevaban hac\xEDa un ascensor para subir o bajar de planta.\r\n\r\nTu
+    intuici\xF3n te dice que el ascensor m\xE1s cercano esta hac\xEDa el pasillo de
+    la izquierda. Desconoces que puede haber hac\xEDa el pasillo de tu derecha.\r\n\r\n1.-
+    Seguir el pasillo de tu izquierda...\r\n2.- Seguir el pasillo de tu derecha..."
+  nextStates:
+  - {fileID: 11400000, guid: 49df38aa73e70634588164324897d0f8, type: 2}
+  - {fileID: 11400000, guid: 96f4aeb15a0badf499a944a8ac5232a1, type: 2}

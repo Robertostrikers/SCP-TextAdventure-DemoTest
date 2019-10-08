@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12f98aa70492ed04cbd4a3800c7df233, type: 3}
+  m_Name: A3 Prision - Celda
+  m_EditorClassIdentifier: 
+  storyText: "Cierras la pesada puerta con temor.\r\n\r\nTe escondes debajo de tu
+    catre para intentar ahogar tu miedo. Tu fr\xE1gil mente se llena de horribles
+    pesadillas mientras te quedas dormido.\r\n\r\nUnas pisadas profundas que suenan
+    desde el pasillo te hacen abrir los ojos, en mitad de la eterna noche, estando
+    encima de tu catre sin recordar que te hab\xEDas subido.\r\nSientes que algo muy
+    pesado se acerca con pisadas profundas que hacen temblar el suelo. No hay luz
+    alguna esta vez, no puedes distinguir nada en tu celda. De todas formas, te vuelves
+    meter debajo del catre.\r\n\r\nSientes como tu impotente cuerpo tiembla de miedo,
+    tu coraz\xF3n late cada vez m\xE1s fuerte con cada pisada..\r\n\r\nA los pocos
+    segundos sientes como las pisadas se acercan delante de tu celda. Mantienes la
+    respiraci\xF3n para evitar que te perciba lo que sea que este al otro lado de
+    la puerta. \r\n\r\nCas\xED no consigues evitar gritar de miedo cuando oyes como
+    la puerta de tu celda cae con violenc\xEDa hac\xEDa el suelo. Sientes que las
+    pisadas entran en tu celda y unas enormes manos te cogen por tu mono sacandote
+    de tu esperanzador escondrijo.\r\n\r\nSientes como te levanta del suelo y un olor
+    horrible te llega a la nariz.\r\n\r\n1.- Continuar..."
+  nextStates:
+  - {fileID: 11400000, guid: f5eb5a04801f7734091b6f7bfbf2bbfb, type: 2}

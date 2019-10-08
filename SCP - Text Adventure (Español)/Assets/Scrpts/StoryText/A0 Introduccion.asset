@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12f98aa70492ed04cbd4a3800c7df233, type: 3}
+  m_Name: A0 Introduccion
+  m_EditorClassIdentifier: 
+  storyText: "\r\n\r\nSiempre has sido una persona un poco solitaria. Cuando te acusaron
+    de un delito que no cometiste, sab\xEDas que esto no iba acabar bien. No ten\xEDas
+    a nadie que testificar\xE1 a tu favor y como consecuenc\xEDa, te acabaron condenando
+    por varios a\xF1os de prisi\xF3n.\r\n Tu peor pesadilla se estaba haciendo realidad.\r\n\r\nEn
+    lugar de llevarte a un horrible prisi\xF3n, ye llevaron a un lugar del que nuncas
+    has o\xEDdo: La fundaci\xF3n SCP.\r\n\r\nAl llegar te despojaron de tu preciado
+    nombre y lo sustituyeron por una incomprensible c\xF3digo alfa-n\xFAmerico. Ahora
+    se refieren a ti como \"D-2019-10\", o \"clase D\" para abreviar.\r\n\r\nEn ese
+    momento aun no sab\xEDas lo oscuro que se volver\xEDa tu despreciable vida...\r\n\r\nAhora
+    eres un m\xEDsero prisionero de la fundaci\xF3n SCP.\r\n\r\nLlevas unas pocas
+    semanas aqu\xED. Has sobrevivido a diversos encuentros con seres extra\xF1os llamados
+    SCP\xB4s, todov\xEDa te cuesta creer que existen. Criaturas, objetos... Tan extra\xF1os
+    e incomprensibles...\r\n\r\nAlgunos son tan peligrosos que agradeces a Dios de
+    haber sobrevivido a los horripilantes encargos que te daban.\r\n\r\n1.- Continuar..."
+  nextStates:
+  - {fileID: 11400000, guid: e1aab9af676f3e64c8481ef43490c519, type: 2}

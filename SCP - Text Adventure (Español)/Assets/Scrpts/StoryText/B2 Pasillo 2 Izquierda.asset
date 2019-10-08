@@ -27,6 +27,6 @@ MonoBehaviour:
     los ascensores.\r\n\r\n1.- Ir por la derecha...\r\n2.- Ir de frente...\r\n3.-
     Ir por la izquierda..."
   nextStates:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 3831ca747f428054988d5a9b685e2f2c, type: 2}
+  - {fileID: 11400000, guid: 3831ca747f428054988d5a9b685e2f2c, type: 2}
+  - {fileID: 11400000, guid: 54ea1465fa2cec743aff5c4d9b601722, type: 2}

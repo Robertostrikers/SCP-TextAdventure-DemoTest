@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: A1.5 Introduccion
   m_EditorClassIdentifier: 
   storyText: "Abres la pesada puerta mientras esta emite un ligero chillido en las\r\nbisagras.
-    Das unos pasos hac\xEDa afuera y cierras la puerta detr\xE1s tuya."
+    Das unos pasos hac\xEDa afuera y cierras la puerta detr\xE1s tuya.\n\n1.- Continuar.."
   nextStates:
   - {fileID: 11400000, guid: 728907568673edd4881309a6c8bc7c58, type: 2}
